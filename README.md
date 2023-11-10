@@ -1,4 +1,4 @@
-[![avatar](https://github.com/Mr0Shad0w/Mr0Shad0w/assets/avatar.png)]()
+[![avatar](https://github.com/Mr0Shad0w/Mr0Shad0w/blob/main/assets/avatar.png)]()
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=DC0000&center=true&random=false&width=435&lines=Hello+World!_)](https://git.io/typing-svg)
 
