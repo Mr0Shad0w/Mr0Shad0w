@@ -1,4 +1,4 @@
-<h3 align="center"><img src="https://github.com/Mr0Shad0w/Mr0Shad0w/blob/main/assets/avatar.png" height="128"/></h3>
+<h3 align="center"><img src="https://github.com/Mr0Shad0w/Mr0Shad0w/blob/main/assets/avatar.png" height="256"/></h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=BD0000&center=true&vCenter=true&random=false&width=1920&lines=Hello+World!_" alt="Typing SVG" align="center" /></a>
 
@@ -22,14 +22,50 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=BD0000&center=true&vCenter=true&random=false&width=1920&lines=My+Stats_" alt="Typing SVG" align="center" /></a>
 
-### Usles Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr0Shad0w&layout=compact)](https://github.com/Mr0Shad0w)
----
-
-### Strike stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mr0Shad0w&theme=shadow-red&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://github.com/Mr0Shad0w)
----
-
-### Total Activity
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr0Shad0w&show_icons=true&theme=shadow_red)
----
+<table align="center">
+    <tr>
+        <th><center>GitHub Streak</th>
+        <th><center>Used languages</th>
+        <th><center>GitHub Stats</th>
+    </tr>
+    <tr>
+        <td><center>
+        <picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=Mr0Shad0w&theme=shadow-red&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+        </td>
+        <td><center>
+        <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr0Shad0w&layout=compact"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+        </picture>
+        </td>
+        <td><center>
+        <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Mr0Shad0w&show_icons=true&theme=shadow_red"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+        </td>
+    </tr>
+</table>
