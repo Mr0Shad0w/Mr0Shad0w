@@ -1,6 +1,10 @@
 <h3 align="center"><img src="https://github.com/Mr0Shad0w/Mr0Shad0w/blob/main/assets/avatar.png" height="256"/></h3>
 
-<a href="https://git.io/typing-svg"><center><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=BD0000&center=true&vCenter=true&random=false&lines=Hello+World!_" alt="Typing SVG" /></center></a>
+<center>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=BD0000&center=true&vCenter=true&random=false&lines=Hello+World!_" alt="Typing SVG" />
+    </a>
+</center>
 
 ### Editors
 <center>
