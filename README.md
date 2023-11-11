@@ -1,4 +1,5 @@
-<center><h3><img src="https://github.com/Mr0Shad0w/Mr0Shad0w/blob/main/assets/avatar.png" height="256"/></h3>
+<center>
+<h3><img src="https://github.com/Mr0Shad0w/Mr0Shad0w/blob/main/assets/avatar.png" height="256"/></h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=BD0000&center=true&vCenter=true&random=false&lines=Hello+World!_" alt="Typing SVG" /></a>
 
@@ -69,4 +70,5 @@
         </picture>
         </td>
 </table>
+</center>
 <!-- It's work XD -->
