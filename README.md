@@ -1,5 +1,4 @@
-<center>
-<h3><img src="https://github.com/Mr0Shad0w/Mr0Shad0w/blob/main/assets/avatar.png" height="256"/></h3>
+<h3><center><img src="https://github.com/Mr0Shad0w/Mr0Shad0w/blob/main/assets/avatar.png" height="256"/></center></h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=BD0000&center=true&vCenter=true&random=false&lines=Hello+World!_" alt="Typing SVG" /></a>
 
@@ -21,9 +20,10 @@
 ---
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=BD0000&center=true&vCenter=true&random=false&lines=My+Stats_" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><center><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=BD0000&center=true&vCenter=true&random=false&lines=My+Stats_" alt="Typing SVG" /></center></a>
 
-<table align="center">
+<table>
+    <center>
     <tr>
         <th><center>GitHub Streak</th>
         <th><center>Used languages</th>
@@ -69,6 +69,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
         </picture>
         </td>
+    </center>
 </table>
-</center>
 <!-- It's work XD -->
