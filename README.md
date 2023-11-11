@@ -1,6 +1,6 @@
 <h3 align="center"><img src="https://github.com/Mr0Shad0w/Mr0Shad0w/blob/main/assets/avatar.png" height="128"/></h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=BD0000&center=true&vCenter=true&random=false&width=1920&lines=Hello+World!_" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=BD0000&center=true&vCenter=true&random=false&width=1920&lines=Hello+World!_" alt="Typing SVG" align="center" /></a>
 
 ### Editors
 > ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -20,7 +20,7 @@
 ---
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=BD0000&center=true&vCenter=true&random=false&width=1920&lines=My+Stats_" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=BD0000&center=true&vCenter=true&random=false&width=1920&lines=My+Stats_" alt="Typing SVG" align="center" /></a>
 
 ### Usles Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr0Shad0w&layout=compact)](https://github.com/Mr0Shad0w)
