@@ -1,6 +1,6 @@
-<h3 align="center"><img src="https://github.com/Mr0Shad0w/Mr0Shad0w/blob/main/assets/avatar.png" height="256"/></h3>
+<center><h3><img src="https://github.com/Mr0Shad0w/Mr0Shad0w/blob/main/assets/avatar.png" height="256"/></h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=BD0000&center=true&vCenter=true&random=false&width=1920&lines=Hello+World!_" alt="Typing SVG" align="center" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=BD0000&center=true&vCenter=true&random=false&lines=Hello+World!_" alt="Typing SVG" /></a>
 
 ### Editors
 > <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio-visual%20studio?style=for-the-badge&logo=visual-studio&logoColor=white&color=5C2D91&cacheSeconds=https%3A%2F%2Fvisualstudio.microsoft.com">
@@ -20,13 +20,12 @@
 ---
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=BD0000&center=true&vCenter=true&random=false&width=1920&lines=My+Stats_" alt="Typing SVG" align="center" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=BD0000&center=true&vCenter=true&random=false&lines=My+Stats_" alt="Typing SVG" /></a>
 
 <table align="center">
     <tr>
         <th><center>GitHub Streak</th>
         <th><center>Used languages</th>
-        <th><center>GitHub Stats</th>
     </tr>
     <tr>
         <td><center>
@@ -41,19 +40,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-        </td>
-        <td><center>
-        <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr0Shad0w&layout=compact"
-    media="(prefers-color-scheme: dark)" />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-        </picture>
-        </td>
         <td><center>
         <picture>
   <source
@@ -67,5 +53,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
         </td>
+    <tr align="center">
+        <th><center>Used languages</th>
     </tr>
+        <td><center>
+        <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr0Shad0w&layout=compact"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+        </picture>
+        </td>
 </table>
