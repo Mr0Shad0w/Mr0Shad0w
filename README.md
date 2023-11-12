@@ -33,24 +33,24 @@
         <td>
         <picture>
             <source
-            srcset="https://github-readme-streak-stats.herokuapp.com?user=Mr0Shad0w&theme=shadow-red&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly"
-            media="(prefers-color-scheme: dark)"
+                srcset="https://github-readme-streak-stats.herokuapp.com?user=Mr0Shad0w&theme=shadow-red&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly"
+                media="(prefers-color-scheme: dark)"
             />
             <source
-            srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
             <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
         </picture>
     <td>
         <picture>
             <source
-            srcset="https://github-readme-stats.vercel.app/api?username=Mr0Shad0w&show_icons=true&theme=shadow_red"
-            media="(prefers-color-scheme: dark)"
+                srcset="https://github-readme-stats.vercel.app/api?username=Mr0Shad0w&show_icons=true&theme=shadow_red"
+                media="(prefers-color-scheme: dark)"
             />
             <source
-            srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
             <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
         </picture>
